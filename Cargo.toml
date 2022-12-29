@@ -1,0 +1,7 @@
+[package]
+name = "ipod-read-sysinfo-extended-macos"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+rusb = "0.9.1"
